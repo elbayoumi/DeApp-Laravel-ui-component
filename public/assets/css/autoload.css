@@ -1,0 +1,31 @@
+
+/* google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap");
+/* start icon */
+
+/*  Font Awesome */
+@import url("./icons/fontawesome.css");
+/*  ico-font */
+@import url("./icons/icofont.css");
+/* Themify icon */
+@import url("./icons/themify.css");
+/* Flag icon */
+@import url("./icons/flag-icon.css");
+/* Feather icon */
+@import url("./icons/feather-icon.css");
+
+/* end icon */
+
+/* Plugins css start */
+@import url("./Plugins/animate.css");
+@import url("./Plugins/chartist.css");
+@import url("./Plugins/owlcarousel.css");
+@import url("./Plugins/prism.css");
+/* Plugins css end */
+/* bootstrap */
+@import url("../../vendor/twbs/bootstrap/dist/css/bootstrap.min.css");
+/* pages */
+@import url("./specific style pages/DeApp.css");
+/*  */
