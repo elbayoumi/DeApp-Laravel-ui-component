@@ -13,6 +13,7 @@ class PostController extends Controller
      */
     public function index()
     {
+        // show samples of dashboard 
         return view('layout.index');
     }
     public function login()
